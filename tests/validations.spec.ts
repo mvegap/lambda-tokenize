@@ -12,6 +12,4 @@ describe('Validations', () => {
     const result = emailValidation(email);
     expect(result).toBe(false);
   });
-
-  it('')
 });
